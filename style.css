@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.support-container {
+    max-width: 600px;
+    margin: 80px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #0073e6;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.note {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #666;
+}
